@@ -1,0 +1,27 @@
+@media screen and (max-width:1000px){
+    .container{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    #time{
+        gap: 10px;
+    }
+    #time .ap{
+        font-size: .7em;
+        transform: translate(-25px);
+    }
+    #clockContainer{  
+        height: 40vw;
+        width: 40vw; 
+    }
+   .digital-body{
+        margin-top: 50px;
+    }
+    .greetings #wish{
+        font-size: 5vw;
+    }
+    .greetings #name{
+        font-size: 5vw;
+    }
+
+}
