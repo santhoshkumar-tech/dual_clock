@@ -1,5 +1,5 @@
 # dual_clock
-This repo is about a simple dual clocks i.e, both analog and digital.
+This repo is about a simple dual clocks i.e, both analog and digital. <br>
  *** Practice purpose ***
 
 ## Techstach
